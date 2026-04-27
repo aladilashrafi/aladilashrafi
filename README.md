@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Co-founder+%40+Markimist+Agency;SEO+Executive+Lead+%40+Mediusware;WooCommerce+Plugin+Developer;Bangladesh+E-commerce+Ecosystem+Expert;6.5%C3%97+ROAS+%E2%80%94+Gulf+Coast+Marine+Outfitters)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Co-founder+%40+Markimist;Digital+Marketing+Specialist+%40+Mediusware;WooCommerce+Plugin+Developer;Bangladesh+E-commerce+Ecosystem+Expert;6.5%C3%97+ROAS+%E2%80%94+Gulf+Coast+Marine+Outfitters)](https://git.io/typing-svg)
 
 <br/>
 
