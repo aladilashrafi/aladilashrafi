@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Al%20Adil%20Ashrafi%20Saikat&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Digital%20Marketer%20%7C%20Plugin%20Developer%20%7C%20SEO%20Lead&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Al%20Adil%20Ashrafi%20Saikat&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Digital%20Marketer%20%7C%20Plugin%20Developer%20%7C%20Digital%20Marketing%20Specialist&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <br/>
 
