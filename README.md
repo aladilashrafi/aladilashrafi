@@ -24,18 +24,17 @@
 I'm a digital marketing professional and WordPress plugin developer based in **Dhaka, Bangladesh** — operating at the intersection of growth strategy and software product development.
 
 - 🏢 **Co-founder & Team Lead** at [Markimist](https://markimist.com) — branding-focused digital marketing agency
-- 🚀 **SEO Executive (Lead)** at [Mediusware Limited](https://mediusware.com)
-- 🔌 **Plugin Developer** — building commercial WooCommerce products at [banglatrack.com](https://banglatrack.com)
+- 🚀 **Digital Marketing Specialist** at [Mediusware Limited](https://mediusware.com)
+- 🏗️ **Founder & Owner** at [Bangla Track](https://banglatrack.com) — courier integration platform for Bangladesh e-commerce
 - 📦 Deep expertise in the **Bangladesh e-commerce ecosystem** — courier logistics, payment gateways, WooCommerce
-- 📈 Achieved **6.5× ROAS in 90 days** for Gulf Coast Marine Outfitters
 
 ---
 
 ## 🔌 Featured Project — Bangla Track
 
-> **WooCommerce Courier Integration Plugin for Bangladesh**
+> **Courier Integration Platform for Bangladesh E-commerce**
 
-A production-grade two-plugin architecture connecting WooCommerce stores with Bangladesh's top courier services.
+Founded and built by me — a production-grade platform connecting WooCommerce stores with Bangladesh's top courier services.
 
 | Feature | Details |
 |---|---|
@@ -57,9 +56,13 @@ A production-grade two-plugin architecture connecting WooCommerce stores with Ba
 **Marketing & SEO**
 
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0866FF?style=flat-square&logo=meta&logoColor=white)
+![LinkedIn Ads](https://img.shields.io/badge/LinkedIn_Ads-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+![GTM](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-FF6B35?style=flat-square&logo=google&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 ![Ahrefs](https://img.shields.io/badge/Ahrefs-FF7043?style=flat-square&logo=ahrefs&logoColor=white)
+![Omnichannel](https://img.shields.io/badge/Omnichannel_Strategy-6D28D9?style=flat-square&logo=buffer&logoColor=white)
 
 **Development**
 
@@ -70,13 +73,6 @@ A production-grade two-plugin architecture connecting WooCommerce stores with Ba
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**E-commerce & Payments (BD)**
-
-![bKash](https://img.shields.io/badge/bKash-E2136E?style=flat-square&logoColor=white)
-![Nagad](https://img.shields.io/badge/Nagad-F7941D?style=flat-square&logoColor=white)
-![SSLCommerz](https://img.shields.io/badge/SSLCommerz-00A651?style=flat-square&logoColor=white)
-![Steadfast](https://img.shields.io/badge/Steadfast-1A73E8?style=flat-square&logoColor=white)
 
 </div>
 
@@ -95,10 +91,8 @@ A production-grade two-plugin architecture connecting WooCommerce stores with Ba
 
 ## 🎯 What I'm Working On
 
-- 🔧 Resolving WP.org submission blockers for **Bangla Track plugin**
+- 🚀 Launched **[Bangla Track App](https://app.banglatrack.com/)** — a web app for managing courier bookings & tracking across Steadfast, Pathao, and RedX
 - 📱 Building a **React Native / Expo mobile app** for social media sellers in Bangladesh
-- 🚀 Deploying **Bangla Track Node.js app** to production
-- 📣 Running **Pohela Boishakh** digital campaigns for Markimist clients
 
 ---
 
