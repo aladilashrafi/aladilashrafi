@@ -82,8 +82,12 @@ Founded and built by me — a production-grade platform connecting WooCommerce s
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aladilashrafi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aladilashrafi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8" />
+<img height="165" src="https://github-readme-stats-five-chi-56.vercel.app/api?username=aladilashrafi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats-five-chi-56.vercel.app/api/top-langs/?username=aladilashrafi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aladilashrafi&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)](https://git.io/streak-stats)
 
 </div>
 
